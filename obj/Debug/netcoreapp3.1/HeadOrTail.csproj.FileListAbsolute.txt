@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/bin/Debug/netcoreapp3.1/HeadOrTail.deps.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/bin/Debug/netcoreapp3.1/HeadOrTail.runtimeconfig.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/bin/Debug/netcoreapp3.1/HeadOrTail.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/bin/Debug/netcoreapp3.1/HeadOrTail.dll
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/bin/Debug/netcoreapp3.1/HeadOrTail.pdb
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.AssemblyInfo.cs
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.dll
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.pdb
+/Users/migleczigergo/Projects/GitHub/Console Apps/HeadOrTail/obj/Debug/netcoreapp3.1/HeadOrTail.genruntimeconfig.cache
